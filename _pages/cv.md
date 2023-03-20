@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://schwindtd.github.io/files/Daniel Schwindt - CV.pdf" type="application/pdf"/>
+You can [download pdf](https://schwindtd.github.io/files/Daniel Schwindt - CV.pdf) here.
