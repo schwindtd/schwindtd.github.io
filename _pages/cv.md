@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://username.github.io/files/Daniel Schwindt - CV.pdf" type="application/pdf"/>
+<embed src="https://schwindtd.github.io/files/Daniel Schwindt - CV.pdf" type="application/pdf"/>
