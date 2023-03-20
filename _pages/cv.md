@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can [download pdf](https://schwindtd.github.io/files/Daniel Schwindt - CV.pdf) here.
+You can [download pdf](https://schwindtd.github.io/files/daniel_schwindt_cv.pdf) here.
