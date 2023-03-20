@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate program"
 permalink: /teaching/pade_umd
 venue: "University of Maryland - College Park, Economics"
-date: 8/20/2022
+date: 2022-08-01
 location: "College Park, MD"
 ---
 
