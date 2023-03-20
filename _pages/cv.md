@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 You can [download pdf](https://schwindtd.github.io/files/daniel_schwindt_cv.pdf) here.
